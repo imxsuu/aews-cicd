@@ -6,7 +6,7 @@ metadata:
     gitadd : webedit
     imxsuuadd : testedit
 spec:
-  replicas: 7
+  replicas: 4
   selector:
     matchLabels:
       app: mywebs
